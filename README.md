@@ -29,3 +29,18 @@ git clone https://github.com/Aniket404Code/Assessment.git MyUnityProject
 Open Unity Hub → Click “Add” → Select the cloned folder.
 
 Now your project will appear in Unity Hub and you can play, edit, or test it.
+
+### Gameplay
+
+
+https://github.com/user-attachments/assets/1fd956e9-a13a-486c-be39-d7a49c088c6e
+ 
+
+
+
+
+https://github.com/user-attachments/assets/0b7100ca-81b8-43af-88a5-94090a93f5cb
+
+
+
+
